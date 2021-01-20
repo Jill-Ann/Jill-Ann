@@ -11,8 +11,8 @@
   - 📫 How to reach me: jillannkay@gmail.com, [@JillAnnKay](https://twitter.com/JillAnnKay), [LinkedIn](https://www.linkedin.com/in/jill-ann-kay/)
   
   
-  <div position="absolute" bottom="0" left="0">
-    <sub><sup>Vector by Vecteezy</sup></sub>
+  <div>
+    <sub position="absolute" bottom="0" left="0"><sup>Vector by Vecteezy</sup></sub>
   </div>
   
 </div>
