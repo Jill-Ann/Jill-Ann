@@ -1,8 +1,9 @@
 ### Hi there, I'm Jill 👋 👩🏻‍💻
+
+<img src="https://user-images.githubusercontent.com/60620619/105161489-b7bb2900-5b11-11eb-83cb-4056be0a5f07.png" alt="profile pic" width="400" align="right" />
+
 <div dir="rtl">
-  <img src="https://user-images.githubusercontent.com/60620619/105161489-b7bb2900-5b11-11eb-83cb-4056be0a5f07.png" alt="profile pic" width="400" align="right" />
-  <figcaption><sub><sup>Vector by Vecteezy</sup></sub></figcaption>
-  
+  <sub><sup>Vector by Vecteezy</sup></sub>
 </div>
 
 - 🔭 I’m currently working on ... an online marketing tool built with MEVN stack.
