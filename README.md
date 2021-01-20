@@ -1,6 +1,6 @@
 ### Hi there, I'm Jill 👋 👩🏻‍💻
 
-<a href="https://github.com/Jill-Ann/Jill-Ann/issues/1"><img src="https://user-images.githubusercontent.com/60620619/105161489-b7bb2900-5b11-11eb-83cb-4056be0a5f07.png" alt="Developer Vector by Vecteezy" width="400" align="right" /></a>
+<a href="https://github.com/Jill-Ann/Jill-Ann/issues/1"><img src="https://user-images.githubusercontent.com/60620619/105167981-c0176200-5b19-11eb-9753-fed77e800c6a.png" alt="Developer Vector by Vecteezy" width="400" align="right" /></a>
   
 - 🔭 I’m currently working on ... an online marketing tool built with MEVN stack.
 - 🌱 I’m currently learning ... Cypress, Docker
