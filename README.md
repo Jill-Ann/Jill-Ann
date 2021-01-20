@@ -1,5 +1,7 @@
 ### Hi there, I'm Jill 👋 👩🏻‍💻
 
+![profile](https://www.vecteezy.com/free-vector/female-developer)
+
 - 🔭 I’m currently working on ... an online marketing tool built with MEVN stack.
 - 🌱 I’m currently learning ... Cypress, Docker
 - 💜 I'm passionate about ... making things that people find useful.
