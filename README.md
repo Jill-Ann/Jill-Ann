@@ -7,3 +7,7 @@
 - 👯 I’m looking to collaborate on ... solving coding challenges.
 - 💬 Ask me about ... anything
 - 📫 How to reach me: jillannkay@gmail.com, [@JillAnnKay](https://twitter.com/JillAnnKay), [LinkedIn](https://www.linkedin.com/in/jill-ann-kay/)
+
+<div dir="rtl">
+  <sub><sup><a position="relative" href="https://www.vecteezy.com/free-vector/female-developer">Female Developer Vectors by Vecteezy</a></sup></sub>
+</div
